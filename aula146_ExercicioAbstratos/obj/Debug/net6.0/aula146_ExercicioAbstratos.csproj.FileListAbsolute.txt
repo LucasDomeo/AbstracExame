@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\bin\Debug\net6.0\aula146_ExercicioAbstratos.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\bin\Debug\net6.0\aula146_ExercicioAbstratos.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\bin\Debug\net6.0\aula146_ExercicioAbstratos.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\bin\Debug\net6.0\aula146_ExercicioAbstratos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\bin\Debug\net6.0\aula146_ExercicioAbstratos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\aula146_ExercicioAbstratos.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\aula146_ExercicioAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\aula146_ExercicioAbstratos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\aula146_ExercicioAbstratos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\aula146_ExercicioAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\aula146_ExercicioAbstratos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\refint\aula146_ExercicioAbstratos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\aula146_ExercicioAbstratos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\aula146_ExercicioAbstratos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula146_ExercicioAbstratos\aula146_ExercicioAbstratos\obj\Debug\net6.0\ref\aula146_ExercicioAbstratos.dll
